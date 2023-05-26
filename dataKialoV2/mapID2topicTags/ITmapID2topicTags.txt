@@ -1,0 +1,5 @@
+MapID	topics
+15660	Europa, Politica, Italia, Lega, M5S, DiMaio, UE, Salvini, Euroscetticismo, Populismo
+9131	Politica, Italia, Lega, M5S, Senato, Elezioni, PD, Voti, SondaggiElettorali, Sondaggi, Berlusconi, ForzaItalia, Parlamento
+9865	DNA, Clonazione
+27651	Thistimeimvoting, Europa, Politica

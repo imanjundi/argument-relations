@@ -1,0 +1,5 @@
+MapID	topics
+6067	Justice, Violence
+24216	Ecologie, Economie
+29353	France, Gouvernement, Philosophie
+21693	Justice, Religion, Police, Gouvernement

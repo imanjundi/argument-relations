@@ -1,0 +1,7 @@
+MapID	topics
+28084	Thistimeimvoting, Europa
+28436	Taxes, Spain, Impuestos, Market, Mercado
+31549	Aliens
+32298	Politics
+2964	Independence, Catalonia
+27585	Mobility, Access, Accessibility, Transport

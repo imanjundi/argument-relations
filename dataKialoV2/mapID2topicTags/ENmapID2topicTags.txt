@@ -1,0 +1,1370 @@
+MapID	topics
+11767	Ethics, Health, Medicine
+7734	Ethics, Money, Liberty
+4201	Law, Politics, USA, Constitution
+1379	Philosophy, Religion, Science, Life
+10451	Technology, Politics, Internet, Security, Password
+30959	Democracy, Speech, Discussion, Peace, Listen, Attention
+21101	Society, Health, Psychology, Drugs, Disease
+16961	Philosophy
+29207	Issue, Droevendaal, Giveawayshop
+11798	Children, Education, Economics, UK, Finance
+14186	Ethics, Justice, Law, Society, Medicine
+26120	Europe, EU, Elections, Parliament
+29944	Politics, Society, Economics, Capitalism, Taxation, Georgism
+18227	Law, Politics, Economics, USA
+9269	Science, Health, Vaccines, Parents, NoVax
+17100	Technology, Ethics, Society, Economics, VR
+31689	Technology, Science, Intelligence
+31662	Science
+29993	Children, Parents, Family
+28455	Democracy, Politics, Referendum, Thistimeimvoting
+26322	Politics, UK, Brexit
+17841	Law, Society, Body
+1027	Europe, Law, Gambling
+29830	Learning, Changes, LifeStages, Challenges
+19059	Philosophy, Ethics, Science, Society, Health
+4611	Justice, Equality, Literature, Elections
+28253	Technology, Ethics, Science, Animals, Humans
+16381	Gender, Law, Equality, Violence, Sex
+24455	Government, Politics, USA, Policy, Jobs
+10082	Science, Feminism, Literature, Fandom
+18637	Life, Violence, Gun
+11175	Ethics, Science, Society, Economics, Environment, Food
+15313	Children, Education, USA, School
+2710	Technology, Society, Environment, Cars, ClimateChange
+26929	Europe, Democracy, EU, Elections, Thistimeimvoting
+30193	Movies, Film, Mulan
+13979	Ethics, Government, Education, USA, Health, Policy
+31266	Technology, Science, Intelligence, ScienceFiction
+21075	Ethics, Society, Morality
+27376	Law, Art, Copyright, Authors
+24657	Politics, Economics, USA, Trump, Mexico
+10294	Ethics, Environment, ClimateChange, Earth
+7873	Education, Student, Grades
+23139	Children, Education, Vegan, Vegetarian
+32034	Education
+7872	Technology, Children, Education, School
+18187	Religion, God, Sexuality, Homosexuality, Scripture, Interpretation
+9863	Philosophy, Ethics, Society, Economics, OpenSource
+23850	Government, Law, Politics, USA
+14742	Politics, Society, Elections
+15306	Law, Economics, Pollution
+24326	Ethics, Society, Internet, Sex
+29602	Politics, Education, University, Humanities
+30347	Religion, Politics, USA, Trump
+10097	Life, Aliens, Universe, Behavior, Encounter
+14232	Entertainment, Science, Space
+18408	IT, Web, Microservices
+10054	Technology, Science, Future, Space, Earth
+27820	Europe, Politics, Society, Thistimeimvoting
+19070	Technology, Ethics, Science, Humans, Evolution
+3143	Philosophy, Ethics, Children, Parents, Antinatalism
+7325	Entertainment, FreeSpeech, Comedy, Humor
+17707	Philosophy, Government, Society
+10068	Children, Education, School
+16419	Gender, Society, Feminism, Culture, Women
+8764	Ethics, Society, Health, Sports
+7457	Ethics, Economics, Capitalism, FreeMarket
+33048	Technology, Money, Apple
+24252	Europe, Politics, EU, Turkey
+28468	Politics, History, France, Revolution
+17840	Ethics, Law, Politics, FreeSpeech
+16592	Law, Economics, Health, Medicine
+25158	Feminism, Advertising, Masculinity, Toxic, Gillette
+15925	Gaming, Console, Microsoft, Sony
+29004	TV, Fantasy, GameOfThrones, Series
+18597	Government, Politics, Society
+29992	Cryptocurrency, Crypto, Blockchain, Finance, Globalization, Currency
+23515	Philosophy, Government, Politics, Society, USA, Policy
+30569	Government, USA, Mexico, America, Descrimination, ICE
+23298	Ethics, Animals, Sports
+10134	Law, Politics, Equality, HumanRights, FreeSpeech
+14346	Politics, Society, Feminism, Women, Taxation
+10120	Law, Politics, Violence, Gaming
+29979	Entertainment, Movies, Fandom, Acting, Performance, Hollywood
+31850	Politics, UK, Brexit
+16579	Ethics, Society
+8610	Entertainment, TV, StarTrek, Discovery, Orville, Trek
+1634	Government, Politics, Economics, Equality, Money, Poverty
+22421	Religion, Freedom, Public, Secularism
+30743	Philosophy
+16790	Ethics, Government, Society, Economics, Equality
+30031	Technology, Government, Internet, UK
+9903	Society, Economics, UBI
+2856	Law, Economics, USA, Regulation, Housing, Airbnb, NYC
+16974	Government, Economics, Taxation
+24078	Philosophy, Society, Freedom
+32829	Football
+32197	Languages, Music, Christmas
+16035	Government, Politics, USA, Policy
+30794	Vegan, Vegetarian
+4214	Gender, Freedom, Women, Sex, Robots, Liberation, Roles
+7721	Technology, Ethics, Science, Health, Humans
+32801	Computers, Computing
+32817	Religion, Christianity, Spirituality, Angel, Spirit, Demon
+26876	Government, Politics, Money, Elections, Finance
+18740	Children, Religion, Christianity, HumanRights, Parenting
+24907	Best, Anime, Cartoon
+15502	USA, Censorship, SexWork, SESTA
+13173	Law, Society, Animals
+22386	Ethics, Animals, Violence, Morality
+14152	Science
+16751	Europe, Politics, USA, War, World
+16989	Society, Equality, Economy, Race
+5685	Philosophy, Freedom, Humans
+16962	Law, UnitedStates, Murder, Courts
+2854	Ethics, Law, Politics, Society, Military
+21102	Technology, Ethics, Law, Science, Society
+30999	Globalization, Crimes, Death, Punishment, Judgment
+14191	Philosophy, TOK
+2868	Justice, Law, Politics, USA, Trump, Pardon
+18967	Politics, India, Modi, Gandhi
+19648	Democracy, Politics, Society, USA, Policy
+8606	Education, USA, School
+1622	Entertainment, Movies, Fantasy, SciFi, StarWars, Spoilers
+13365	Philosophy, Relationships, Life
+14350	Ethics, Law, Children
+17881	Society, Economics
+15728	Government, Society, World, Military
+14422	Gender, Children, Feminism, Equality, Culture
+8148	Democracy, Government, Politics, Economics, Taxation
+31852	ClimateChange, Climate, Climate-Change, Global-warming, Westworld, Hypocrisy
+17895	Philosophy, Ethics, Society
+18595	Politics, USA, Trump, Journalism, ForeignPolicy, Pence
+24278	Politics, War, India, Pakistan
+17856	Politics, USA, Elections
+26453	Law, Politics, UK, Islam
+4148	Ethics, Animals, Life, Humans, Vegan
+29827	Ethics, Justice, Crimes, Death, Prison
+15106	Technology, Education, USA
+11406	Writing, Yoga, Writers
+17063	Politics, Economics, Sports
+15674	Ethics, Discrimination, MentalHealth, Discussion, Nurse
+14224	Philosophy, Democracy, Government, Law, Politics, Economics
+19066	Corruption, Republican, Party, Rich
+12133	Government, Politics, Society, Violence, Gun
+18387	Ethics, Health, Sustainability, Water
+18393	Philosophy, Science, Faith, Evolution
+1232	Science, Sex, History, Einstein
+5054	Democracy, Politics, Education, Capitalism, DecisionMaking, Technocracy
+18634	Gender, Ethics, Law, Children, Abortion
+14768	Internet, Learning, Knowledge, Subjectivity
+17261	Politics, Economics, USA, Money
+14740	Ethics, Animals, AnimalRights, Police
+10240	Technology, Law, USA, IP, Patent
+23675	Philosophy, Ethics, Law, Society, Health
+31265	Science, Brain, States, Mental, Mind
+18807	Gender, Feminism, Equality, Power, Female, Male
+10297	Gender, Relationships
+15489	Law, Environment, ClimateChange, Australia
+29370	Environment, EU, ClimateChange, Taxes
+7871	Children, Education, School, Learning
+28709	Justice, Equality, LGBTQ, HumanRights
+10296	Politics, UK, Brexit, Ireland, NorthernIreland, CTA
+29365	Gender, LGBTQ, Sexuality
+7865	Democracy, Law, Politics, Society, Elections, Political
+28721	Europe, Entertainment, Sports
+5096	Ethics, Money, Sports
+9647	Law, Education, USA, School, Policy
+8559	Democracy, Politics, Freedom, Media, News
+28906	Health, Work, MentalHealth
+13760	Ethics
+16618	Economics, USA
+26903	Cars, Cities, Pedestrians, Urban
+13012	Movies, Film, Christmas, Muppets
+18147	Politics, Society, Equality, Marriage
+11605	Environment, Oil, Palm
+1233	AnimalRights, Bees, Honey, PETA
+29615	Religion, Politics, Israel, Geography, Palestine
+30344	Biology, Virology
+30378	AI, Art, Blues
+16340	Ethics, Society, Culture, Relationships, Marriage
+10057	Religion, Christianity, God, Morality, Atheism, Theism
+18437	Philosophy, Health, Relationships, Humans, Morality
+22967	Society, Economics, Business
+6986	Philosophy, Axioms, Rationality, Logic, Objectivity, Reality, Irrational, Realism
+16591	Society, Environment, Life, Humans, ClimateChange, Earth
+15098	Government, Politics, USA, Immigration, Police
+30542	Science, Evolution
+22608	UK, TV, DoctorWho, Television, JodieWhittaker
+24279	Law, Politics, Money, HumanRights, FreeSpeech
+31853	Privacy, Data
+14345	Politics, Society, Equality, Poverty
+9531	Europe, Science, Environment, Earth
+29946	Sexuality, Tantra, Masturbation, Orgasm, NoFap, Karezza
+17670	Society, Safety, Wellbeing, Driving
+32143	Aliens, Universe, Cosmos
+32619	Gender, Equality, LGBTQ, Sexuality
+31476	Government, UN
+1384	Ethics, Relationships, Sex, Marriage
+26678	Ethics, Money, Art
+16750	Philosophy, Ethics, Religion, Humans
+13628	Feminism, Culture, Violence
+23927	Government, Politics, Corruption
+12278	Government, Politics, Freedom, Capitalism, Libertarian
+8363	Europe, Politics, Freedom, UK
+5119	Games, Gaming, Console, Nintendo, Microsoft, Sony
+30787	Justice, Society, Money
+16026	Ethics, Politics, Society, Immigration
+32184	Religion, Science, Faith
+13604	Philosophy, Literature, History
+7915	Philosophy, Meaning, Metaphysical, Nihilism, Nietzsche
+14194	Science, Environment, ClimateChange, Earth, Weather
+2851	Ethics, Religion, Feminism, Health, HumanRights, Abortion
+25836	Philosophy, Ethics, Happiness
+13348	Technology, Economics, UK, BBC
+6148	Ethics, Law, Politics, Freedom, HumanRights, FreeSpeech
+16218	Education, Violence, School
+17660	Development, Software, Agile, Scrum, Spotify
+9284	Philosophy, Ethics, Children, Society, Parents, Antinatalism
+31658	Society, Equality, HumanRights, Morality, Epistemology, EqualOpportunity
+26442	Justice, Law, Economics, Property
+26330	Democracy, Government, Politics, Nations
+6835	Ethics, Politics, Society
+18590	Ethics, Justice, Law, Society
+5496	Philosophy, Religion, God, Existence, Pascal, Wager
+4950	Government, Society
+12650	Government, Law, Politics, Education, Society
+16422	Education, Society, Media
+10053	Technology, Education, Gaming
+8987	Ethics, Animals, AnimalRights, Pet, Humane
+17714	Gaming, VideoGames
+15103	Ethics, Society, Health, Production, Nutrition, Coffee, Caffeine
+11371	Technology, Politics, Elections, India
+29836	Justice, Racism, Nazi, Nationalism, Fascism, Antifa
+18355	Politics, War, HumanRights, UN
+17066	Ethics, Government, Politics, Business, Jobs, Parliament
+25981	Ethics, Justice, Politics, Society, Sex
+17099	Internet, Cybersecurity, Hacking
+1960	Philosophy, Religion
+7487	Science, Environment, Future, Food, ClimateChange
+33113	Society
+4415	Science, Future, Space, Earth
+4401	Education, Sex, School, Policy
+30181	Gender, Media, VideoGames, Sexism
+3346	Politics, Society, USA, Violence, Gun
+9119	Cars, Carbon
+984	Finance, Bitcoin, Anonymity, Currency, Anonymous, Payments
+32033	JavaScript, ReactJS, VueJS, Angular, HTML5, CSS
+5904	Gender, Politics, Economics
+9858	Philosophy, Theory, Simulation, Anthropic
+1592	Philosophy, Ethics, Trilemma
+28043	Politics, USA, Privacy, Ecuador
+29349	Justice, Literature, FreeSpeech, Crimes
+25215	Philosophy, Humans
+29348	Entertainment, Games, VideoGames, RolePlay
+5087	Entertainment, Society, Guns
+21066	Energy, Green, Solar, Battery, GridTie, OffGrid
+16184	Philosophy, Ethics, Politics, Immigration
+10293	Law, Religion, Politics, Health, War, Military, Vaccines, Marijuana
+30157	FreeSpeech, Games, Nazi, Computer, FreeMarket
+985	Ethics, Law, Society, Life, Humans
+3353	Gender, Law, Politics, Australia
+24877	Science, Economics, Space
+1222	Entertainment, Sports, History
+10278	Philosophy, Religion, Science, Geology
+7121	Society, Health, Food, Humans, Medicine
+9124	Ethics, Government, Science, Health
+10250	UK, Brexit, Referendum
+13759	Politics, USA, Military, Security, ForeignPolicy
+23856	Entertainment, Politics, Sports, Media
+16153	Law, Politics, Trump, HumanRights, Immigration
+31063	Philosophy, Science
+33112	Economy, ClimateChange, Travel
+1785	Democracy, Politics, Society, Referendum
+30341	Ethics, Religion, Politics, Drugs, Rastafarians, Legend
+5246	Ethics
+18432	Ethics, Economics, Military
+13201	Ethics, Internet, Technologies
+8776	Philosophy, Ethics, LifeAndDeath
+17715	Science, Politics, Health, Food
+10052	Ethics, Government, Law, Economics, Disaster, PriceGouging
+30382	Science, Space, Aliens, SciFi
+9326	Science, Economics, Environment, ClimateChange
+12651	Education, Culture, Humanities, Anthropology
+22143	Society, Economics, Money, Tipping, Service
+29943	Feminism, Women, Race, SocialJustice
+1154	Ethics, USA, Apple, FBI
+17649	Technology, Ethics, Science, Animals
+9520	Technology, Society, Health, Medicine, Evolution
+28644	Technology, Smartphones, Virtuality
+28136	Government, Politics, Freedom
+30989	Culture, Music, Rap, Hiphop
+26866	Justice, Politics, Society, Feminism, Equality, Psychology
+7055	Entertainment, Movies, StarWars
+30792	ClimateChange
+26696	Justice, USA, President
+9734	Health, Drugs, Medicine, UK, Marijuana
+14140	Government, Education, Economics, Future, Jobs
+21845	Elections, Haddad, Bolsonaro, Brazil, 2018
+7043	Children, Education, School, Liberty
+2649	Philosophy, Ethics, Morality
+30035	Religion
+16794	Government, Society, Economics, Money, India
+25438	Gender, Ethics, Society, Sex, Homosexuality, Theory
+32636	Politics, USA, Military, International, China
+9913	Ethics, Society, Feminism, Health, Sex
+28652	Technology, Internet, Privacy
+4774	Politics, Society, Economics
+13439	Technology, Ethics, Society, Health
+29969	Technology, Ethics, War, Military, Weapons, Engineering
+16227	Ethics
+4748	Cars, Electric, Vehicles
+7533	Politics, USA, Multiparty
+30551	Political, Homosexuality
+15921	Technology, Apple, Android, Phones
+24256	Education, Society, Violence
+25148	Philosophy, Ethics, Morality, Utility, Recreation
+31115	Philosophy, Technology, Society, Brain, Transhumanism, Computer
+29982	Politics, Taiwan, President
+18593	Government, Law, Religion, Society, Equality, Jobs
+15114	Ethics, Society, Health
+15666	Justice, Politics, USA, Trump
+4628	Religion, God, History
+22035	Ethics, Children, Education, Parenting
+30431	Gaming, Mods, Fangames, Nintnedo
+25000	Society, Economics, Culture, Business, Jobs
+18381	Gender, Sex, Transgender
+10252	Politics, Economics, Business
+26938	Money, Poverty, Taxation
+8238	Ethics, Law, Politics, Economics, Organ
+6201	Ethics, Health, Medicine, Morality
+28901	Politics, Policy, Political
+18632	Software, Collaboration, Teams, Slack
+1546	Technology, Ethics, Law, AI, Cars
+5734	Ethics, Law, Privacy, Anonymity
+15464	Ethics, Religion, Politics
+16186	Cryptocurrency, Crypto, Blockchain, Decentralization, Ledger
+24646	Ethics, Law, Politics, Education, Society, USA
+19289	Education, Society, School
+18183	Politics, Policy, Ireland, Unification, NorthernIreland
+21064	Politics, Economics, Equality, Inheritance
+23114	Politics, Economics, Money
+14974	Gender, Feminism, Abortion
+30154	Politics, Immigration, Refugees, Migrants, Asylum
+17272	Ethics, Society, Media, Journalism
+3344	Politics, World, History
+1221	Entertainment, Games
+30829	Travel, Aviation
+16622	Philosophy, Ethics, Health
+14035	Ethics, Animals, AnimalRights, Vegan, Vegetarian
+5292	Ethics, Art, Artists, Topical
+33105	Justice, War, History, Turkey
+3185	Science, Earth, Climate, Ecology, Futurism
+33111	Europe, Sports
+30430	Computing, Green, Effeciency
+26246	Law, EU, Copyright, Legislation
+6980	Law, Politics, World
+28280	Europe, Religion, Culture, EU, Africa
+13564	Society, AI, Humans, Evolution
+4615	Ethics, Government, Politics, Health, Population
+15897	Technology, JavaScript, ReactJS, VueJS, Angular
+16420	Government, Politics, Policy
+30236	Politics, War, China, Taiwan, WorldAffairs, SouthChinaSea
+31699	Philosophy, Science, Languages
+4013	Philosophy, Ethics, Law, Politics, Abortion, Ireland
+9906	Europe, Democracy, Politics, EU, Media
+2853	Politics, USA, NuclearWeapons, NorthKorea
+31316	Politics, Capitalism, Socialism, Anarchy, Ideology, Test
+26865	Literature, FreeSpeech
+18009	Ethics, Government, Economics, Equality, Money
+21844	Education, Economics, USA
+18720	Gender, Feminism, Equality, LGBTQ
+18046	Business, Work, Salary
+18052	Society, Occult, Tarot, Divination
+30906	Religion, God
+15238	Society, USA, Sports
+9746	USA, Gun
+30084	Environment, ClimateChange, Lifestyle
+28620	Economics, Capitalism, Taxes, Wealth, SupplySide
+18085	Democracy, Government, Politics, Society, HumanRights
+25338	Politics, Environment, ClimateChange, Taxation
+9791	Ethics, Law, Health, HumanRights
+30053	Games, Fantasy
+16080	Technology, War, Defense
+16269	Ethics, Society
+2439	Gender, Politics, Military, Conscription
+31832	Religion, Behavior, Freud
+27936	Economics, Economy, Capitalism, Socialism
+6844	Technology, Children, Education, School, Policy
+30279	Gender, Sports, Transgender
+18293	Politics, Environment, World, Animals, ClimateChange
+29700	Development, C, CrossCompiler, IDE
+17822	Technology, Ethics, War, Military, Drones
+13517	Philosophy, Ethics, USA, Health, Freedom, Morality
+31946	Education, Learning, Digital, Weather, Inclement
+2217	Ethics, Law, Society, Health, Abortion
+15628	Software, OpenSource
+22084	Democracy, Politics, World, Globalization, UnitedNations
+31761	Science, Pollution
+4841	Ethics, Justice, Law, Morality
+30319	Economics
+18481	Technology, Ethics, Science, Education
+30331	Religion, Belief, Pascal
+4458	Politics, USA, Trump, Republicans, Democrats
+5746	Ethics, Law, Politics, Health, Medicine, Vaccines
+18668	Government, Politics, USA, Constitution, US
+16645	Philosophy, Ethics, Society
+10220	Philosophy, Government, Politics, Society, Policy
+31205	Law, Society, HumanRights
+23601	Ethics, Society, Relationships, Psychology, Humans
+6298	Philosophy, Science
+1291	Ethics, Children, Animals, AnimalRights, Charity, Donations
+24634	Society, Culture, Relationships, Women, Marriage
+9197	Education, Society, Economics
+22537	Economics, Equality, Distribution
+32724	Journalism, Assange
+9196	Technology, Mobile, Classroom
+2799	Government, Politics, Health
+18682	International, Time, Standard, Date
+28999	Evolution, Consciousness, Brain, FreeWill, Quantum, Neurology
+16863	Democracy, Politics, USA
+14053	Politics, Society, Economics, Equality, UBI
+8539	Ethics, Religion, Society, God, Faith
+14286	Society, USA, FreeSpeech
+9394	Entertainment, SciFi, StarWars, ScienceFiction, StarTrek
+16485	Technology, Ethics, Health, Future, Vegan
+18480	Justice, Law, Society
+28231	Religion, Society, Christianity, Morality
+31760	Philosophy, Science, Evolution, Morals
+12620	Ethics, Myth
+24392	Politics, UK, Parliament, Britain
+18325	Ethics, Society, Life, Lifestyle
+5545	Ethics, Law, Children, Equality, Marriage, Procreation
+7352	USA, Culture, Sex, Morality, Art
+10180	Technology, Science, Health
+28423	Europe, Politics, EU, Thistimeimvoting
+30287	Cryptocurrency, Crypto, Blockchain, Ethereum, Governance, DGov
+10143	Entertainment, USA, Sports, Football, American_Football
+5431	Games, Gaming, VideoGames, Gambling, Overwatch
+4049	Philosophy, Ethics, Education, AI, Privacy
+29271	Entertainment, Fandom, Comics, SciFi, Marvel, Superheroes
+22324	Society, Relationships, Humans
+18090	Morality
+30085	Health, Psychology, Humans, Sex
+10341	Government, Law, Politics, World
+2160	USA, NorthKorea, Ban, Tourism
+7018	Gender, Politics, Society, Race, Identity
+12218	Society, Violence, Parenting
+32876	Politics, USA, Trump, Elections, Republicans, Democrats
+13112	Philosophy, Religion, God, Rationality
+8317	Philosophy, Society, Postmodernism
+18047	Gaming
+1325	Justice, Law, USA
+5625	Ethics, Science, Morality, Humanities, Value
+16068	Gender, Law, Society, Culture
+14119	Ethics, Law, Society
+7768	Philosophy, Ethics, Science, Politics, USA, Moral
+10343	Politics, USA, World, Trump
+16915	Politics, USA, Abortion
+31372	Politics, USA, America, Obama
+23038	Government, Politics, Economics, USA
+16083	Government, Politics, Society, Economics, USA
+32647	Gender, Feminism, Sports
+22454	Democracy, USA, HumanRights, FreeSpeech
+16929	Gender, LGBTQ, Transgender, Trans
+15993	Europe, World, Russia
+19171	Politics, Society, USA, Mexico
+16242	Entertainment, Film, StarWars, ScienceFiction
+27921	Ethics, Politics, Immigration, Refugees
+16524	Law, Children, Psychology, Sexuality, Orientation
+4711	Law, Economics, Space, Property
+28353	ReactJS, MobX, Observer
+27060	International, Travel, Visa
+27706	Technology, Travel, Aircraft, UAV
+15978	Gender, Ethics, Science, Politics, Society, Health
+10196	Justice, Society, Police
+17835	Gender, Ethics, Abortion
+30534	Economy, ClimateChange, Energy, Ecology, Global-warming, Recycling
+13514	Technology, Ethics, Science, Politics, Education
+28582	Fantasy, RolePlay, RPG, Game
+14247	Philosophy, Politics, Society, Culture
+14253	Technology, Ethics, Science, AI
+10035	Relationships, Marriage, PreNup, Divorce
+2214	Ethics, Politics, Immigration, Refugees, Migrants
+16322	Politics, Trump, PoliticalCorrectness, Civility, Norms, Decency
+15818	Culture, Music, Israel
+31776	Religion, Science, Education, God, Evolution
+9396	Politics, War, Military, Germany, Safety
+24804	Christianity, Psychology, God, Belief
+28794	Technology, Games, Mobile, Nerd
+921	Philosophy, Ethics, AI, Cars, Trolley
+23831	Politics, UK, Elections, Parliament
+10223	Religion, Science, Christianity, Faith, Epistemology
+9143	Politics, Society, Economics, Environment, Health, ClimateChange
+10237	Justice, Law, Violence
+16646	Technology, Programming
+7185	Law, Society, Economics, Legislation, Housing, Broker, Commerce, Trade, Property, RealEstate, House
+16685	Philosophy, Ethics
+30643	Sports, Hockey, NHL, Gary_Bettman
+15399	Europe, Democracy, Politics, EU
+14939	Sports
+28756	Science, Wikipedia, OpenScience
+18681	Economics
+31213	Government, ClimateChange, Climate, GovernmentPower
+30858	Education, School
+32097	Children, HumanRights, Abortion, Parenthood, Disability
+13059	Education
+14050	Philosophy, Society
+24839	Ethics, Law, Children, Sex
+2995	Ethics, Politics, Society, USA, Race, Football
+18642	Technology, College, Student, Tablet, Laptop
+32530	Cryptocurrency, Crypto, Blockchain, Programming, Ethereum
+3692	Ethics, Government, Law, Politics, Economics, USA
+15819	Technology, Children, Education, Internet, Sociology, Development, Biology, EdTech
+32518	Religion, God, Catholicism, Pope
+17968	Technology, Literature, Future
+29886	Gender, Sports, Transgender
+9354	Science, Health, Medicine, PublicHealth, Homeopathy
+17773	Europe, Law, EU, Medicine, Policy, Marijuana
+8857	Entertainment, Society, Film, TV, Comics, Superhero
+30247	Drugs, Addiction
+17820	Ethics, Government, Law, Politics, Society
+11289	Technology, Ethics, Software, VideoGames, Piracy
+28434	Entertainment, Movies, Fandom, Marvel, Superheroes
+13449	Politics, Society, Cars
+24583	Technology, Society, Film, Fandom, TV, InfoSec
+27920	Ethics, Health, Animals, Medicine, Vaccines
+10154	Politics, Education, Society, Economics, USA
+11504	Children, USA, UK, Parenting
+13307	Philosophy, Ethics, Society, Morality, Sociology, Communication
+30051	Religion, Christianity, God, Faith, Bible
+9963	USA, Food
+32108	Sports, SocialMovement
+2177	Politics, NuclearWeapons, NorthKorea
+7999	Government, Politics, Society, USA, Elections, Oprah
+32861	USA, Military
+23978	Ethics, Society, Health, Animals
+1324	Politics, USA, Race, Slavery, Reparations
+12545	Education, School
+30082	Philosophy, Psychology, Morality
+6467	Education, Literature
+9754	Democracy, Government, Science
+12551	Government, Politics, India, Aadhaar
+10408	Ethics, Government, Politics, Privacy, Transparency
+2629	Philosophy, Ethics, Religion, God, Atheism, LifeAndDeath
+13673	Ethics, Children, Religion, Health, HumanRights, Parenting
+13854	Politics, Society, Violence, School, Gun, Police
+10385	Government, Environment, Food, Cars, ClimateChange
+29262	Technology, Ethics, Future, SciFi, Information, Limitation
+9967	Philosophy, Religion, Science
+19174	Society, Cars, Mobile, Traffic, Mobility
+19160	Feminism, Culture, Women, Lifestyle
+1122	USA, FBI, Darknet, Pedophilia
+17165	Technology, Ethics, Politics
+14478	Politics, India, SouthAsia
+18242	Ethics, Health, Animals, Vegetarian
+18524	Government, Children, Elections
+11266	Society, FreeSpeech, Debate, Anonymity, Discourse
+8674	Politics, Equality, Culture, Australia
+15955	Science, Computing, Theory, Complexity
+16290	Recycling, Tipping, Fly, Council
+30257	Animals, AnimalRights, Pet
+28342	Society, Future, Emotion
+7584	Politics, Australia, Republic
+30486	Democracy, Discussion, GovernmentPower, Influence, Citizen, Rrights
+2211	Democracy, Ethics, Politics
+9344	Technology, Ethics, Environment, ClimateChange
+29841	UK, Brexit, Conservative, Labour, House, Commons
+17763	Politics, Society, Economics, Feminism, Parenting
+28593	Europe, Politics, Yugoslavia, Serbia, Kosovo
+8933	Gender, Justice, Society, USA, Women
+12828	Education, Equality, Business, Freedom
+13288	Health, Future, Life, Medicine
+24424	Technology, Literature, Internet
+32252	USA, Drones
+14295	Ethics, Justice, Society, Jobs
+5581	Politics, Education, Health, School, Policy, UK
+7396	Government, Health, UK
+29896	Economics, Cryptocurrency, Crypto, Blockchain, Security, Sovereignty
+2588	Entertainment, Sports, Media, Football
+17978	Economics, USA, Trump, Mexico, Canada, Trade, NAFTA
+13049	Democracy, Government, Politics, Elections
+15438	Government, Economics, Switzerland
+9620	Science, Environment, Health, ClimateChange
+9146	Ethics, Society, Culture, Art
+23808	Law, Religion, Culture, Violence, Belief
+8516	Government, Law, Politics, Elections
+13061	Entertainment, Relationships, Violence, India, Bollywood
+16694	Entertainment, VideoGames, StarCitizen
+16680	Culture, Art, Fandom
+24632	Philosophy, Government, Politics, Education
+32079	Voting, Kialo
+9812	Ethics, Education, Society, Civil, Civic
+21039	Justice, Government, Politics, UnitedStates
+14055	Law, DNA, Genealogy
+4305	Ethics, Law, Sports
+6274	Internet, Programming, JavaScript, SoftwareDevelopment, Web, Website
+2760	Politics, Economics, Employee, Unions
+31766	Ethics, Politics, War, Internet, Morality, Information
+28545	Ethics, Business, Poverty
+8098	Programming, DataAnalysis, Spreadsheet, Excel
+24431	Democracy, Politics, USA, Elections
+30322	Poverty, Countries, Rich, Savings, People
+31028	Creativity, Kids, Toys
+33159	Democracy, Politics, Constitution, Canada
+13262	Technology, Science, Physics, Light
+3654	Gender, Children, Parenting
+12140	Politics, Society, AI
+32290	Politics, USA, Terrorism
+16326	Science, Health, LGBTQ, Sex, Medicine
+31941	USA, India, Visa, H1B, GreenCard
+2210	Ethics, Law, Children, Society, Women
+12626	Ethics, Religion, Politics, Education, School
+16454	Law, Politics, Economics, Poverty
+9351	Law, Environment, Cars, ClimateChange
+1692	Democracy, Politics, Society, Elections, Voting
+7591	Science, Space
+27064	Philosophy, Ethics, Medicine, Morality
+29707	Ethics, Children, Environment, Humans, Poverty
+1137	Europe, Religion, Politics, Christianity, History
+10179	Law, Economics, Drugs, Hemp
+8661	Technology, Politics, Internet, NetNeutrality
+25698	Philosophy, Morality
+14445	Religion, Christianity, History, Judaism
+2364	Technology, Ethics, Internet, Privacy
+19161	Gender, Feminism, Sports, Identity, Olympics
+10145	Entertainment, Science, Fandom, BBC
+22691	Politics, Canada
+8649	Europe, Politics, International, Greece, Macedonia
+30281	Health, UK, Privatization
+16246	Relationships, Marriage
+6116	Ethics, Politics, Culture, Identity
+13869	Philosophy, Ethics, Law, FreeSpeech, Racism, Comedy
+14860	Entertainment, Sports, Basketball, NBA
+9966	Politics, Society, Economics
+21159	Technology, Science, Society, Humans, Space, Earth
+16093	Law, Children, Health, Women
+23982	Animals, Meat, Farming, Insects
+10390	Energy, Regulation, Electricity, Electric, Solar, Utility, FERC, Federal, NaturalGas
+13672	Justice, Government, Law, USA, Courts
+1335	Sports, Olympics
+14121	Government, Law, Society, Health, World
+6466	Gender, Entertainment, Health, Sex, Morality
+24790	Health, Female, Hair, Shaving
+14123	Democracy, Government, Politics, Elections
+6464	Economics, Cryptocurrency, Crypto, Blockchain, Finance, Bitcoin
+12546	Philosophy, Ethics
+9025	Religion, Christianity, Women
+5637	Law, Religion, Feminism, Health, Women, Abortion
+1323	Politics, Culture, AnimalRights
+15573	Philosophy, Ethics, Politics, Society
+3252	Ethics, Politics, Capitalism, Communism
+30730	God, Logic, Gods, Abilities, Conceivable
+30056	Europe, Environment, Traffic, Flying
+2819	Gender, Fandom, ScienceFiction, DoctorWho, NonBinary
+21167	Technology, Entertainment, Media, News
+12750	Politics, Society, War, Humans, Violence
+32480	Economy, China, WorldAffairs, Value
+19163	Feminism, Equality, Parenthood, Career, Paternity, Maternity
+5409	Children, Morality, Parenting
+2366	Technology, Gender, Women, Google
+14447	Ethics, Justice, Law, Society, Morality, Poverty
+16244	Ethics, Government, Politics, USA, Trump, Psychology
+16522	Children, Religion, Christianity, Abortion, Poverty
+15765	Politics, Society, Economics
+5435	Ethics, Health, Food, Animals, Vegan
+7587	Law, Environment, ClimateChange, Earth
+3093	TV, Nerd, Marvel, Superheroes, Netflix
+14255	Government, Religion, Society, Taxation
+19017	Education, School
+2206	Europe, Politics, Monarchy
+14269	Ethics, Government, USA, Health, Drugs
+3871	Technology, Politics, Economics, ClimateChange
+30320	Religion, Movies, 1stAmendment, PublicEducation, Pantheism, Moana
+30446	Justice, Police, Crimes, Governance
+29895	Law, UnitedStates, MentalHealth, Crimes, Murder, Suicide
+21211	Entertainment, Culture, Music
+21952	Politics, Society, History
+15349	Entertainment, Literature, Fandom
+14057	Religion, Psychology, God, Faith
+24180	Religion, Christianity, History
+2762	Ethics, Health, Animals, ClimateChange, Vegan, Vegetarian
+30863	Trump, Democrats, 2020, Impeachment
+8267	Politics, USA, Gerrymandering
+3454	Democracy, Government, Law, Politics, Internet, Legislation
+1257	Entertainment, Movies, SciFi, Best
+21749	Politics, USA, Immigration
+32053	Literature, Books, Orwell
+31228	Politics, China, Protest, HongKong
+14080	Government, Law, Environment, ClimateChange
+26032	Economics, Capitalism, Poverty
+32709	FreeSpeech, Malware
+25506	Europe, Politics, EU, US, Russia
+30679	Security, Taxation, Terrorism, Secularism
+6288	Ethics, Law, Children, Politics, HumanRights, Abortion
+30862	Health, Influenza, Immunity, Vaccine, Antivax
+8500	Ethics, Policy, AnimalRights, Animal, Breeding
+16655	Technology, Apple, Microsoft
+16899	SocialMedia, Twitter
+29894	Equality, LGBTQ, Race, Music
+14283	Economics, Cryptocurrency, Crypto, Blockchain, Investment, ICOs
+30447	Technology, Politics, War, AI, Robots
+17775	Government, Politics, Society, USA, Military, Taxation, Funding
+8716	Philosophy, Ethics, Animals, Morality
+30484	Ethics, HumanRights, Medicine, Taxes, Prison
+28426	Entertainment, Internet, Games, Sport
+14491	Ethics, Society, Culture, Race
+16292	Children, Education, Society, Teaching
+15943	Technology, Ethics, Science, AI, Consciousness, Transhumanism
+15002	Ethics, Government, Law, Society, Policy
+29923	Issue, Droevendaal, Road, Takeback, Close, Boardwalk
+17173	Ethics, Science, Environment, Earth
+16245	Philosophy, Religion, Politics, Feminism, Christianity
+9226	Society, Environment, Humans, ClimateChange, Earth
+2415	Entertainment, Literature, Fandom, HarryPotter
+1108	USA, History, NuclearWeapons, Japan, WW2
+7948	Technology, Ethics, Science, Animals, Morality
+9965	Politics, Society, USA, Patriotism
+29248	Ethics, Children, Medicine, Parents, Medical
+18081	Technology, Science, Education, Society, Economics
+28142	ClimateChange, Climate, University
+13842	EU, Immigration, Hungary
+10393	Government, Environment, Health, Policy
+30725	War, History, China, Japan, WW2
+15599	Economics, Environment, ClimateChange
+30731	Politics, Trump, Elections, Brexit, Referendum, President
+18730	Technology, Ethics, Education, Society
+3253	Philosophy, Law, Politics, Speech
+18056	Technology, Business, Jobs, Computers, Enterprise, Solutions
+18042	Gender, Society, Feminism, Women, Transgender
+10378	Ethics, Justice, Law, HumanRights, Violence
+10436	Equality, Business, Wages, Wage-gap
+23956	Philosophy, Religion, Science
+6465	Women, Fashion, Clothing
+4272	Politics, War
+9997	Politics, USA, Immigration
+8337	Government, Science, Politics, Environment, ClimateChange, Earth
+2168	Democracy, Politics, Military, International, UnitedStates, NuclearWeapons, NorthKorea, Diplomacy, SouthKorea, Unification, Korea, MoonJaeIn, KimJongUn, KatWSubmission
+7776	Religion, Faith, Islam
+21194	Gender, Equality, LGBTQ, Sports, Transgender
+30072	Politics, USA, Trump, Biden, 2020
+18098	Philosophy, Ethics, Religion
+30066	EconomicInequality, Corruption, Venezuela, Hyperinflation, Crisis
+8653	Society, Relationships, Sex, Marriage
+29906	Politics, Violence, History, Political, Moral
+29912	Politics, Taiwan
+12984	USA, Health, Food, GMO
+29721	JavaScript, CSS, FrontEnd
+6695	Politics, Society, Elections, Truth
+32315	Democracy, Internet
+17022	Justice, Politics, USA, HumanRights, Violence
+31783	Equality, Sport, Pay
+17750	Technology, USA, HumanRights
+15609	Government, Politics, Society
+27863	AnimalRights, Welfare, Mouse, Feeding, Snake, Reptile
+2222	Ethics, Politics, Economics, Poverty
+30310	Environment, Existence, Astronomy, Unknown, Big, Bubbles
+22714	Children, Politics, Education, Society, Sex, School
+4479	Europe, Referendum, Catalonia
+14073	Software, Agile, C, Scrum, Kanban, Certification
+29494	Software, Communication, Cryptography, Online
+16664	Technology, Programming, JavaScript, TypeScript
+6246	Europe, Politics, EU, UK, Brexit, Referendum
+9613	Science, Environment, Health, ClimateChange, GMO
+26980	Philosophy, Epistemology, Logic
+30884	Ethics, Law, HumanRights, UN, Governance
+14932	Politics, Business, Canada, Oil, Pipeline
+24615	Government, Society, Economics
+23608	Science, Education, Society, Public
+24172	Technology, Society, Future
+25244	Philosophy, Religion, Life
+9821	Gender, Politics, Business, Women
+1528	Society, Health, Lifestyle
+10214	Law, Politics, Education, Society, USA, School
+1266	Gender, Feminism, Equality, Sex, Transgender
+6086	Health, Diet, Nutrition
+23437	Philosophy, Gender, Relationships, LGBTQ, Sex
+9389	Ethics, Animals, Sex
+13292	Ethics, Government, Society, Vegan, Taxation
+31741	Sports, Fantasy, Football
+13286	Philosophy, Religion, Science, Mathematics
+33156	Philosophy, Law, Religion, International, Logic
+31027	Ethics, International, Development, Trade
+30339	Politics, Economics, Culture, States, Nations
+16473	Technology, Health
+2223	Government, Immigration, Australia
+14258	Ethics, Science, Health, Animals
+29867	Justice, Feminism, India, Gulabi, Vigilante
+18304	Technology, World, Internet
+6079	Government, Politics, Society, USA, Trump
+8040	Religion, Christianity, God, Faith
+19191	Ethics, Law, Politics, Society
+32314	Entertainment, Games, VideoGames
+19185	Philosophy, Science, Mathematics, Physics
+30259	Trump, WhiteSupremacy, Charlottesville
+12952	Law, Society, Economics, Cryptocurrency, Crypto, Blockchain
+16507	Freedom, Software, Google, OpenSource, YouTube, PeerTube
+11268	Science, Space, Earth
+9202	Ethics, Morality
+16513	Philosophy, Ethics, Religion, Society
+29913	Technology, Health, Learning, Knowledge, Advice
+29907	Issue, Droevendaal, Road, Light
+12991	Gender, Government, Law, Equality, Women
+7944	Law, Science, Health, Food, Medicine, Safety, Bacteria, Microbiology
+12588	Technology, Ethics, Society
+12577	Society, Relationships, Marriage
+2141	USA, Capitalism, SocialJustice, Pay, Salary, Wager, Gap
+30926	Europe, Politics, UnitedStates, Surveillance
+23796	Law, Society, Health, Safety, Cycling
+18066	Democracy, Politics, UK, Parliament
+1474	Justice, Law, Children, Society
+9980	Ethics, Law, Health, HumanRights
+25497	Government, Society, Marriage
+14886	Society, Economics, Business, Jobs
+31390	Democracy, Technology, Politics, Society, Digital
+7761	Physics, Dark, Boson, Lhc, Higgs, Particle
+19434	Science, Research, Publishing
+14104	Games, Creativity, RPG
+4254	Law, Politics
+13864	Law, Society
+30065	Technology, Relationships, Work, Travel
+30703	Gender, Sex, Sexuality, PoliticalCorrectness
+14448	Society, Currency
+8122	Internet, FreeSpeech, Media, Censorship, YouTube
+17627	Government, Politics, Society, Policy
+486	Technology, Politics, War, Weapons
+8678	Ethics, Politics, USA, World, Trump
+11518	Justice, Money, Trial
+31810	Democracy, Government, USA, China, UN
+15795	Literature, Fantasy, SexualAssault, HarryPotter, Rape
+12788	Technology, Business, MDM
+16288	Charity, Welfare, Giving
+15965	Philosophy, Ethics, Government, Law, Politics, Society
+18474	Technology, Internet, Software, Browser
+4650	Politics, USA, Elections, Reform
+14272	Trump, UnitedStates, NuclearWeapons, Diplomacy, Iran, IranDeal
+9360	Democracy, Justice, Law
+28206	Medicine, Physician, Doctor, Pharmacist, Pharmacy
+13284	Philosophy, Ethics, Psychology, Animals
+2590	USA, LGBTQ, HumanRights, Military, Transgender
+6090	Education, Economics, Equality, Environment, Life, Women
+15346	Ethics, Education, Society, School, College
+5016	School, Diet, Nut
+15434	Philosophy, Ethics, Government, Religion, Politics
+30878	Cryptocurrency, Crypto, Blockchain, Ethereum, Governance, Consensus
+1258	Science, Space, Aliens
+29497	Politics, War, UnitedStates, Iran
+19554	Science, Society, Aliens, Conspiracy
+27337	Society, Culture, Relationships, Independence, Individual
+31555	SoftwareDevelopment, Writing, ReStructuredText
+2976	Cryptocurrency, Crypto, Blockchain, Bitcoin, Ethereum, Fintech
+17593	Government, Science, Gun
+19233	Ethics, Government, Society
+7614	Children, Education, School, Parenting
+7600	Education, Society, Culture, Literature
+1926	Education, USA, Literature, Race, Censorship, Empowerment, Slavery
+31030	Ethics, Government, Politics
+16470	Technology, Society, Environment, Cars
+15179	Gender, Society, Feminism, Medicine, WorkCulture, Period
+29870	Religion, Christianity, God, Faith
+13520	Ethics, Science, Future, Intelligence, Artificial
+1715	Gender, Education, Equality, Race, School, AffirmativeAction
+29723	Politics, Culture, Media, Campaigning, DNC
+31178	Education, Society, Programming, Kids
+444	Politics, Economics, Taxation, EconomicInequality
+11294	Philosophy, Technology, Science, Society, Ecology
+12945	Government, Politics, Health
+23597	Children, Education, Society, Culture, School, Art
+2368	Ethics, Children, Society, Parenting
+30299	Military, ForeignPolicy, ForeignLegion
+32101	Politics, Environment, ClimateChange
+18918	Technology, Economics, Business
+27530	Technology, Computers, Bootcamps
+29509	Politics, Psychology, Sociology, Evolution
+15596	Entertainment, Games
+16712	Technology, Society, Internet
+31391	Culture, Industry, Generations, Talent
+8319	Justice, Law, Violence, Gun
+10373	Future, Work, Jobs, Creativity, Skill
+32878	Politics, UN, UnitedNations
+16716	Ethics, Politics, Economics, Taxation
+16070	Government, Politics, Society
+5601	Ethics, Politics, USA, Trump
+8457	Politics, Society, Economics, Equality, HumanRights
+1473	Ethics, Law, LifeAndDeath, HungerGames
+30060	Literature, Books, YoungAdult
+30074	Ethics, Jobs, Walmart, Fired, Retail, Loss
+27246	Ethics, Animals, AnimalRights, Sharks
+27520	Democracy, Politics, Elections, Morality
+2813	Government, Law, Politics, Economics, USA, Policy, Taxation, Reform
+30048	Children, Health, MentalHealth, Nature, Nurture, Illness
+16931	Politics, Economics, Equality, Business, HumanRights
+9563	Government, Education, Economics, Art
+5359	Technology, Ethics, AI, Women, Sex
+7572	Gender, Ethics, Science, Health, Life, Women
+13322	Politics, Economics, Capitalism, History, America
+31829	Animals, Pets, Cats, Subjectivity, Dogs
+17805	Technology, Society, Communication, Podcast
+30504	Cars, Trucks, Looks, Engine, Durabillity
+2224	Ethics, Government, Culture, Art
+14511	Law, Politics, USA, Constitution
+2230	Economics
+29690	Politics, Elections, Vote
+13518	Religion
+9359	Gender, Children, Health, LGBTQ, Transgender
+7412	Apple, Mobile, Google, Android, IOS, IPhone
+1922	Gender, Feminism, USA, Equality, Women
+3853	Ethics, Christianity, War, Knowledge, Geography, Mormon
+24439	Politics, Society, Immigration
+25727	Ethics, Religion, Politics, Society
+12376	Gaming, Design, Game, WoW, WorldOfWarcraft
+14061	Ethics, Society, Equality, HumanRights, Race
+2032	Technology, Education, School
+939	Gender, Law, Politics, Relationships, Sex
+7176	Discrimination, AffirmativeAction, Caste, CasteDiscrimination, Dalits, Reservation
+13901	Ethics, Religion, Politics, Education, Society
+5946	Economics, Cryptocurrency, Crypto, Blockchain, Finance, Fiat
+11680	Gender, Law, Health
+25243	Technology, Education, School, College, Online
+23626	Politics, Economics, Violence, Drugs, Mexico
+30882	Ethics, HumanRights, Terrorism
+28772	Entertainment, Movies, Fandom, Comics
+18869	Politics, Society, Elections, US, Vote
+9827	Religion, Society, Humans, Violence, Morality
+31545	Canada
+25524	Philosophy, Democracy, Politics, War
+21024	Science, Publishing
+16878	Business, Humans, Resources
+28996	Politics, Cryptocurrency, Crypto, Blockchain, Ethereum, Governance
+30667	Culture, Relationships, Family, Responsibility
+1260	Politics, Life, Best, Countries
+14048	Society
+8522	Ethics, Religion, Education, School, Faith
+26950	Law, Children, Parenting
+2027	Law, Politics, Drugs, Policy, Regulation
+16111	Gender, Law, Society, Health, LGBTQ
+12377	Philosophy, Technology, Ethics, Politics, Economics, Policy
+14060	Government, Politics, Elections
+16677	Philosophy, Ethics, Religion, Atheism, Buddhism
+2741	God, History, Evolution, Nerd, Moral, Creationism, Cosmology
+27131	Philosophy, Materialism, Metaphysical, Idealism, Dualism, Monism
+31753	Religion
+30317	Humans, Consciousness, Senses
+5589	Politics, USA, Elections
+15632	Government, Politics, USA, School, Gun
+10038	Ethics, Children, Religion, Society, Psychology, Parenting
+2219	Gender, Ethics, LGBTQ, Sexuality
+8708	Europe, Politics, EU, UK, Brexit
+4654	Ethics, Feminism, Violence, Sex, Morality
+2225	International
+31141	Technology, Ethics, Law, AI, Safety, IoT
+333	Cryptocurrency, Crypto, Blockchain, Bitcoin, Anonymity, ADC
+30511	Philosophy, Religion
+31828	Christianity, Authors, Bible
+18504	Politics
+18510	Education, Health, School
+7215	Ethics, Society, Baby, Overpopulation, Reproduction
+9576	Democracy, Religion, Politics, Christianity
+8668	Ethics, Science, Health, Medicine, Fraud, Natural, Pseudoscience, Remedy
+16501	Gender, Equality, Relationships, Humans, Sex
+29929	Health, SocialMedia, MentalHealth
+19154	Philosophy, Technology, Science, Society, Health
+14699	Ethics, Society, Culture, Food, Humans
+15593	Religion, Christianity, Islam, Judaism
+21178	Philosophy, Ethics, Business, Morality
+13860	Government, Politics, USA, Race, Washington
+1314	Law, Health, HumanRights, Jobs
+1472	Ethics, Children, Science, Parenting
+9760	Entertainment, USA, Equality, Movies
+10402	Government, Politics, USA, Elections
+3529	Technology, Ethics, Science, AI
+9762	Children, Politics, Violence, School, Gun
+9004	Politics, USA, World, Trump
+1470	Democracy, Justice, Politics, USA, Elections
+2179	Politics, USA, NorthKorea
+18062	Entertainment, USA, Sports
+11720	Law, Politics, Society, USA, Gun, Constitution
+16729	Technology, Policy, ClimateChange, Research, Solar
+30088	World, Travel, Tourism
+19383	Technology, Internet, Anonymity
+6492	Philosophy, Politics, Society, Feminism, Women
+16098	Ethics, Government, Politics, Society
+1128	Politics, Economics, Refugees
+5428	Ethics, Feminism, Internet, Women, Sex
+7565	Politics, Education, College, Taxation
+24599	Ethics, Law, Children, HumanRights
+31157	Women, Men, Talent, Disenfranchised, Lonely, Utilize
+15787	Technology, Ethics, Economics, Games
+2233	Politics, Society, Media
+5548	Philosophy, Science, Aliens, SciFi
+13269	Technology, Science, Education
+1048	Technology, SocialMedia, Facebook, Daesh, Terrorism, Twitter, ISIS, IS
+14248	Politics, Business, Seattle
+5212	Democracy, Politics, UK
+7405	Society, Health, Life, History, Time
+8911	Science, Future, Space
+21230	Government, Welfare, Unemployment
+13282	Law, Business, Internet, Privacy, Governance
+31745	Democracy, Politics, FreeSpeech, SocialMedia, Facebook, Fakenews
+23433	Gender, Ethics, Children, Society, Parenting
+16107	Gender, Education
+29491	International, Political, Poverty
+6525	Technology, Kialo, Meta
+8246	Economics, USA, CapitalGains, Investment, Investing
+19208	History, WarBetweenTheStates, American
+30856	Environment, Ecology, Waste, Water, Landfill, DIY
+13057	Government, Law, Politics, Economics, Drugs
+30665	Learning
+30103	Gender, Culture, Race, PoliticalCorrectness, Hollywood
+29320	Politics, UK, Elections
+31221	Future, Humans, ClimateChange
+28770	Technology, Children, Education, Privacy
+16846	Entertainment, LGBTQ, Transgender, Acting
+31552	War, Future, NuclearWeapons
+2971	Technology, Programming, Development, Software
+32729	Religion, Politics, Constitution, India, Secularism
+31208	Environment, Future, Travel, Digital, Tourism, VR
+22512	Children, Education, Violence, School, Police
+30664	Sports, Drugs, Competition
+6295	Technology, Ethics, Law, AI, Rights
+7835	Ethics, Law, Politics, Society, Economics, Equality, Inheritance
+2795	Law, Science, Politics, USA
+16648	Government, Politics, USA, Military, Space
+13056	Cancer, Smoking, Tobacco
+11899	Ethics, Religion, God, Faith
+30857	Healthcare, Transparency, HIPAA
+5763	Relationships, SocialMedia, Facebook
+16674	Technology, Ethics, Science, Health
+2024	Ethics, Animals, AnimalRights
+17797	Technology, Children, Education, Society
+17783	Law, Society, USA, Media
+13283	Ethics, Government, Religion, Politics, Charity, Funding
+23340	Politics, UK, Parliament, Conservative, Labour
+8051	Politics, Internet, Security, Tor, DarkWeb, InfoSec
+4119	Law, Politics, USA, Identity
+2226	Politics, Society, Elections, Reform
+17768	Philosophy, Science
+12610	USA, Equality, Women, Work, Jobs
+7438	Ethics, Government, Morality, Taxation
+2232	Justice, Law, Society
+30506	Business, Political, SocialJustice, Corporations
+30274	Politics, USA, Germany, Antifa, AntiFascism
+17146	Philosophy, Ethics, Psychology
+7216	Earth, CriticalThinking, CrowdManipulation, FalseTheories, FlatEarthTheory, Truth
+2408	Ethics, Politics, USA, History, CurrentEvents, Monuments, Statues
+9549	Education, Literature, India
+12002	Technology, Ethics, Facebook
+4051	Government, Politics, World
+25862	Food, Animals, Vegan, Vegetarian
+30738	Gender, LGBTQ, Trans, Drag
+15590	Technology, Computing
+6487	Philosophy, Ethics, Society, Freedom, Individual
+30076	Electricity, Scooters
+18711	Society, Economics, Environment, Future, ClimateChange
+15553	Technology, Society, Cars, Life
+30937	Gender, Feminism, Sex, Female, Male
+1471	Science, Health, Drugs, Experiment
+15547	Ethics, Justice, Law, Politics, Society
+12228	Law, USA, Drugs, Medicine, Marijuana
+5171	Gender, Health, Transgender, Identity, Trans, Mental, Neurodiversity, Transphobia, Self
+31397	Internet, Elections, IT, Voting, Fraud, Hacking
+12200	Google, Firebase, Database
+14103	Feminism, Women, Islam
+15246	Europe, Politics, EU, Peace
+13623	Ethics, Law, Sociology
+28851	Education, School, Learning
+28689	Justice, Law, HumanRights, Life
+6351	Europe, Law, Politics, Society, Economics
+24058	Ethics, Law, Politics, Energy
+20564	Kialo, Meta, Esoteric, Superset
+24064	Technology, Education, University
+18951	Security, Computers, IT
+29965	Housing, RealEstate, Prices
+15736	Journalism
+31870	Economics, Space, Nuclear, Exploration, Extinction, Survival
+17848	Ethics, Politics, Debate, Speech, Kialo
+28474	Justice, Law, Violence, Police
+13555	Computers, Computing
+10074	Gender, Feminism, Advertising, Marketing
+4624	Politics, USA, Republicans, Democrats
+15695	Ethics, Children, Health, Sex, Medicine
+25742	Society, LGBTQ, Games
+32202	World, International, Change, New
+7661	Gender, Ethics, Law, Politics, UK, Islam
+27425	Science, Race, Medicine
+30171	Religion, Society, Marriage, Diversity
+30170	Economy, Resources, Systems, Automation, RBE, VenusProject
+24663	Equality, Culture, Racism, Traditions
+2903	Ethics, Justice, Law, Politics, Policy
+16174	Politics, Economics, LGBTQ
+8547	Ethics, Politics, Society, Independence, Catalonia, Catalunya
+17915	Politics, UN, Security, Globalization
+19092	Ethics, Education, Society, Economics
+30428	Police, PoliceBrutality, GovernmentPower, QualifiedImmunity, CivilAssetForfeiture, Accountability
+27632	Economics, Health, Medicine, Cancer
+24449	Entertainment, Marriage, Fandom, Relationship
+16376	Government, Society, Environment, Cars
+12676	Government, Politics, Education, Economics, Student
+16410	Health, Policy, Reform, Care, Affordable, ACA, Act, Obamacare
+18429	Gender, Children, Society, Equality, EqualOpportunity
+16404	Philosophy, Justice, Morality
+9467	Ethics, Religion, Christianity, Catholicism, Pope
+7304	Politics, Society, Health, HumanRights, Medicine
+26289	Europe, Society, Culture, EU, Languages
+17732	Science, Psychology, Life, Evolution
+10049	Law, Society, USA, Race, Police
+12138	Government, Safety, Aircraft, Aviation, Privatization, ATC
+30560	College, Online, Schooling, K-12, Alternative
+8802	Philosophy, Gnoseology, Solipsism
+3980	Health, Medicine, Lifestyle
+16216	Ethics, Society, Psychology, Humans
+27791	Europe, Politics, Military, EU, Thistimeimvoting
+29964	Children, Education, English, Diversity
+19119	Europe, Democracy, Politics, EU, Hungary
+29555	Society, Health, Humans
+30004	Technology, FreeSpeech, Regulation
+18944	Philosophy, Epistemology, Rationality
+13187	Justice, Law, War, HumanRights, Violence
+11784	Education, Psychology, Violence, Gun
+17493	Ethics, Society
+10317	Law, Society, Police
+801	Ethics, Justice, Law, Politics, USA
+23911	Nintendo, PAL, Smash, NTSC, GameCube
+8427	Ethics, Society
+30945	Cryptocurrency, Crypto, Blockchain, Security, Cryptography, Backup
+12528	Ethics, Justice, Law, Religion, Money, God, Litigation
+32820	Politics, Hackers
+21692	Ethics, Society, USA
+11037	Ethics, Race, Racism, AfricanAmericans
+16980	Ethics, Government, Politics, USA, Policy
+7702	Technology, Children, Entertainment, Internet, Games
+16994	Ethics, Entertainment, Animals, Morality
+4237	Politics, Economics, EU, UK, Brexit, Referendum
+16770	Ethics, History
+14198	Technology, Education, Society
+30748	Economics, Business, Policy, Corporations, Investment, Investing
+5465	Ethics, Economics, Environment, GMO
+16566	Ethics, Society, Equality, Race
+31867	Technology, Programming, Mobile, Apps, Web
+6144	Ethics, Government, Politics, Society, Anarchy
+8169	Philosophy, Ethics, Economics, Money, Altruism, Selfishness
+14365	Justice, Law, Society, Media, Art
+30238	Belief, Behavior, Reality, Concept, Practical, System
+13387	Entertainment, Culture, Movies, Fandom, Comics
+15084	Philosophy, Ethics, Literature
+30562	Internet, Security
+7299	Law, Drugs, Marijuana, Cannabis
+24265	Politics, Elections, Immigration
+8035	Technology, Science, Society, Culture, Capitalism
+8021	Society, Culture, World, Languages
+21296	Europe, EU, Elections
+9317	Ethics, Children, Violence, Sex, Art
+14588	Politics, Cars, Safety
+23318	Government, Children, Politics, Education, School
+25580	Technology, Government, Law, EU, Data
+9883	Health, Drinking, Cola, Pepsi, CocaCola, SoftDrinks
+963	Ethics, Law, Children, Policy, Abortion, Parenting
+18629	Politics, Economics, Corporations
+12304	Gender, Society, Feminism, Equality, HumanRights, Women
+15494	Philosophy, Ethics
+31278	Europe, Law, HumanRights, Refugees, AsylumSeekers
+31279	Government, Health, Healthcare, Care, Right
+19293	Technology, Software, Vim, Editors, Emacs
+15495	Relationships, Life, Friends
+5909	Economics, Money, Taxation
+16836	Democracy, Religion, Politics, Judaism, Israel
+10248	Equality, Environment, ClimateChange, Poverty, Development
+27396	Internet, SocialMedia, Facebook, HateSpeech
+9128	Ethics, Internet, Media, News, Journalism
+8550	Ethics, Religion, Society, Health, Sex
+8961	Justice, Law, Politics, Society
+4197	Ethics, Science, Animals, AnimalRights
+21532	Ethics, Entertainment, Humans, Movies, Comics
+29608	Gender, Equality, LGBTQ, SocialJustice
+31735	Philosophy, Materialism, Idealism
+13219	Gender, Children, Science, Health, Medicine
+10076	Entertainment, Culture, Fandom, Comics, Marvel
+13225	Politics, California, Water, Infrastructure
+8752	Technology, Ethics, Government, Policy, Software, OpenSource
+15907	Internet, Games, Industry, ARG
+21320	Technology, Society, Cars, Policy
+23537	Philosophy, Education, Relationships, Sex
+15091	Games, Art, Gaming, PixelArt
+16598	Ethics, Government, Politics, Canada, English, French
+27023	Religion, Christianity, History
+13386	Government, Politics, USA, Police, Security
+33056	Politics, SocialMedia, News
+31866	Technology
+16201	Gender, Equality, LGBTQ, Women, Transgender
+14416	Education, Society, USA, Culture, History
+17645	Government, Politics
+15052	Government, Politics, UN, Globalization, Peace
+30007	Law, Jurisprudence
+30985	Politics, Environment
+9060	Law, Health, Policy, Smoking
+1414	Politics, Society, Privacy
+1400	Ethics, Animals, AnimalRights
+13621	Government, Education, Culture
+23902	Politics, Economics, World
+10310	Internet, Media, Journalism
+19334	Politics, SexualAssault, Courts
+4540	Science, Society, Environment, Humans, Climate
+9716	Law, Politics, Society, Elections
+24937	Ethics, Health, Food, Animals, Vegan
+31484	Technology, Space, Earth
+24923	Politics, Trump, Political, President, Impeachment, Pence
+32172	Justice, Morality, Emotion, Right
+15283	Technology, Society, Music, Musicianship
+14412	Psychology, Drugs, MentalHealth
+10112	Ethics, Justice, Law, Children, Society
+25803	Politics, Education, Economics, Work
+2469	Government, Politics, USA, History, Elections
+7288	Ethics, Justice, Politics, Society, Equality
+1835	Gender, Society, Sports, DomesticViolence
+6182	Technology, Environment, ClimateChange, Energy, Nuclear
+9299	Democracy, Politics, Society, USA, Trump
+17682	Europe, Science, Economics, Health, EU, Policy
+25156	Movies, Film, England
+4971	Ethics, Politics, USA, Race
+33046	Technology, Gaming, Console, Nintendo
+9306	Philosophy, Existence, Universe, Simulation, Infinite
+8756	Internet, Communication, Discussion
+17721	Ethics, Law, Animals, Sports
+23484	Ethics, Government, Military, UN
+8742	Politics, Economics, Capitalism, Taxation
+3171	Government, Society, Economics, Money
+1955	Technology, Ethics, Justice, Law
+4193	Education, Health, School
+15877	Technology, Ethics, Law, AI, FreeSpeech
+4839	Ethics, Entertainment, Morality, Fandom
+31043	War, Violence, News, Journalism
+16173	Gender, Children, Education, Transgender, Identity
+14770	Society, Privacy, Media
+16601	Ethics
+30188	Education, College, Student, Wealth
+15320	Ethics
+13751	Cars, Lifestyle, Pollution, Traffic
+1570	Gender, Society, Feminism
+5064	Politics, Economics, USA, Cars, Policy, Taxation
+7840	Politics, Society, Economics, USA
+23651	Philosophy, Feminism, Culture, Sex, Art
+2904	Technology, Languages, Programming, Computers, Nerd
+15491	Music, Guitar, Tonewood
+16826	Law, Society, Literature
+14956	Ethics, Children, Religion, Education, School
+16827	Technology, Government, Politics, Economics
+2905	Technology, Society, Internet, Medicine
+29355	Feminism, Women, Sex, Purity, Virginity
+9878	USA, Internet, Intelligence, Terrorism, Surveillance, Liberty, Snowden, NSA
+7841	Politics, Society, Economics, Liberty, Markets
+28739	Ethics, Legal, Pornography, Porn
+29427	Gender, Ethics, Sexuality
+1203	Entertainment, Literature, Fandom
+15335	Government, Politics, USA, President, Obama
+17250	Government, Taxes, Mail
+7100	Law, Health, Drugs
+10265	Ethics, Entertainment, Business
+26258	Children, Entertainment, Media, Morality
+15686	NuclearWeapons
+31056	Voting, Franchise, Heinlein
+10098	Politics, USA, War, NATO, Afghanistan
+6949	Religion, Health, Psychology
+29631	Sex, Esotericism, Tantra
+15876	Entertainment, Equality, LGBTQ, Movies
+32205	Society, Christmas, Easter
+18375	Ethics, Government, Law, Society, Policy
+5515	Government, Society, War, HumanRights
+22957	Philosophy, Ethics, Education, Society, Psychology
+13208	Government, Politics, USA, War, World, Military
+1029	Health, Sex, Medicine, Vaccines, Parenting
+30228	Gun, Guns, GunLaw, MassShooting, Shooting
+33047	Politics, Elections, Voting
+27032	Psychology, Animals, Humans
+30994	Religion, Christianity
+17495	Government, Politics, Economics
+2871	Law, Children, Politics, USA, Policy, Immigration, Minors
+5850	Justice, Law, HumanRights, Race, FreeSpeech
+13817	Democracy, Government, Law, Politics, USA, Constitution
+6395	Technology, Law, Politics, Economics, Bitcoin
+31491	Ethics, Morality, Pets, Enviroment, Planet, Petersinger
+16984	Ethics, Law, Health, Medicine
+33292	Politics, UK, Monarchy
+4555	Education, Competency, Schooling, Grades, Mastery, Feedback
+15269	Justice, Law
+16776	Philosophy, Ethics, Children
+7738	Ethics, Religion, Morality
+9073	Technology, Ethics, Law, AI, Intelligence, Research
+24908	Philosophy, Society
+1413	Law, Feminism, Equality, Women, Sex
+32830	Law, Drugs, Marijuana, Germany, Alcohol, Beer
+32171	Society, Economics, Environment, Health
+30028	Environment, Sustainability, Ecology, Green, Plastic, SingleUse
+2867	Ethics, Law, Politics, USA, FreeSpeech, WhiteSupremacy, NoPlatforming
+25343	Economics, Environment, ClimateChange
+11780	Law, USA, Race, Police, PoliceBrutality
+29784	Europe, Immigration, Migrants, Lampedusa, Distress, SeaWatch
+29948	Politics, Republicans, Democrats, Controversial
+19653	Law, Music, Copyright, Authors, Creativity
+16560	Philosophy, Ethics, Society, Environment, ClimateChange
+9265	Philosophy, Society, Animals, Humans
+15727	Privacy, Police, Safety, Surveillance, PoliceBrutality, Public
+31849	Education, Sports, Games, Learning, Creativity, Chess
+16548	Languages
+29974	Apple, Android, IOS, HTML5, NativeApp, ProgressiveWebApp
+17642	Mathematics, Math, MathClass, Class
+15900	Economics, Environment, ClimateChange, Earth
+30570	Democracy, UK, Brexit, Political
+2495	Technology, Science, Life, Space
+10844	Programming, Security, Software
+12100	Education, School, UK, Learning, Wellbeing, Purpose
+29828	HumanRights, Constitution, Australia
+27811	Politics, World, ClimateChange, UN
+22969	Philosophy, Science, Education, Psychology
+16372	USA, Trump, Unions, SCOTUS
+15653	Equality, LGBTQ, Police
+9339	Ethics, Government, Politics, Society, Privacy
+17722	Children, Education, Society, School, Policy
+15121	Philosophy, Antinatalism, Benatar, Tremblay
+13236	Children, Economics, Environment, Humans, ClimateChange, Poverty
+30362	Science, Health, Bacteria, Soap
+29627	Economics, Environment, Health, Sustainability, Disposable, Toxins
+30410	USA, Equality, Culture, Race, History, Australia
+32549	America, Country
+27150	AI, Intelligence, AGI, Aritifcial, ANI
+1229	Ethics, Health, Food, AnimalRights, Vegetarian, Meat
+31281	Countries, Country, Olympics, Cities, City
+9649	Europe, Politics, Economics, Currency
+2091	Politics, USA, UN, Israel, Palestine
+19294	Technology, ServicecFabric, Kubernetes, Containers, Mesosphere, DockerCompose
+23120	Children, Internet, Privacy, SocialMedia
+11186	Society, Discourse, Kialo, WorkCulture
+15487	USA, Trump, ClimateChange, Climate, UnitedNations
+13948	Copyright, YouTube, IP, Video
+15493	Economics, Business, Entrepreneur
+13974	Government, Politics, USA, Cuba
+30161	Law, Politics, Society, Community
+13035	Government, Politics, Sociology
+31294	Science, Environment, Future, ClimateChange, SocialJustice, Problemsolving
+32789	Technology, Development, Software, SoftwareDevelopment, Modern
+3371	Philosophy, Religion, Christianity, Faith, Islam, Judaism
+16617	Philosophy, Gender, Ethics, Society, LGBTQ
+13237	Security, Globalization, Changes, Nations, Border, Natural, Building, Control, Boundaries, Constant, Nationalist, Prevention
+4608	Politics, Equality, Money, Elections
+17045	Children, Education, USA, School
+1764	Politics, Education, FreeSpeech
+7473	Ethics, Economics, Policy, Work
+3615	Science, Politics, Knowledge, Bias, Power
+31653	Science
+28302	Justice, Politics, Society, Moral
+26461	Economics, Discrimination, Disabilities, Wage
+6194	Ethics, Children, Parenting
+20776	Education
+3946	Justice, Entertainment, Literature
+17870	Ethics, Science, Society, Health, Medicine
+31848	God, Universe, Creationism, Design, Intelligent
+16549	Justice, Government, Law
+3991	Law, Entertainment, Sports
+29949	Ethics, Justice, War
+2331	Entertainment, GoT
+14410	Government, Society, Economics, Equality, Policy
+12075	Philosophy, Ethics, Science, Education, Society, Art
+10104	Food, Pizza, Pineapple, Hawaiian
+30015	Relationships, Sex, Sexuality, Cheating, Monogamy
+13627	Technology, Ethics, Government, Politics, Society, World
+16993	Society
+27596	Entertainment, Games, Art
+15242	Ethics, Children, Society, Health, Relationships, Women
+24909	Feminism, Relationship, Abuse
+7739	Ethics, Law, Animals, Violence

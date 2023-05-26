@@ -1,0 +1,22 @@
+MapID	topics
+32815	Klimawandel, Energie
+30620	USA, Politik, Obama, Friedensnobelpreis
+27176	Internet, Politik, Recht, Europa, UploadFilter
+30977	EU, Deutschland, Klimawandel, Klima, Thunberg, Klimagesetz
+23301	Politik, Recht, Migrationspakt
+32218	Germany, Deutschland, Deutsch
+31673	Gesellschaft, Klimawandel
+31672	Politik, Gesellschaft, Klimawandel, Distribution
+29073	Internet, Politik, Thistimeimvoting, SPD, Rezo, CDU
+9181	Internet, Politik, Germany, Recht, Deutschland
+26182	Internet, EU, Politik, Recht, Europa, Article13
+28745	Politik, Recht, Gesellschaft, Demokratie
+31350	Klimawandel, CO2
+29910	Politik, Berlin, S-Bahn, Bahn, Nahverkehr
+28165	Politik, Thistimeimvoting, Europa
+31355	Politik, Wirtschaft
+31092	Politik, Germany, Recht, Deutschland, AFD, Verfassungsschutz
+25033	Law, Politik, Demokratie, Wahlrecht, Steuer
+31669	Klimawandel
+9477	Politik, Gesellschaft, Deutschland, Bundesregierung, Koalition, GroKo
+32825	Politik
